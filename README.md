@@ -9,6 +9,8 @@ Dicho proyecto contiene gran totalidad de los assets usados en el proyecto reali
 
 # A continuación algunos modelos y capturas de el trabajo que contiene este proyecto.
 
+###### Algunos modelos las texturas son agregadas en el postprocesado de el motor al ejecutarse.
+
 ## Extintor modelo:
 
 ![image](https://user-images.githubusercontent.com/103226457/162345521-0394fc3f-b4b8-411e-aaa2-285f22786ea8.png)
